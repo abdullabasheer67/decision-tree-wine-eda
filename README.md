@@ -32,4 +32,33 @@ The goal of this project is to understand the data, analyze feature–target rel
 
 ---
 
-## 🔍 Explorat
+## 🔍 Exploratory Data Analysis (EDA)
+The EDA process includes:
+- Dataset overview and shape
+- Checking missing values
+- Statistical summary of features
+- Distribution plots
+- Feature vs target visualizations
+- Correlation analysis
+
+The EDA is **inspired by a GeeksforGeeks tutorial** and has been **adapted and extended** with explanations and decision-tree-based insights for learning purposes.
+
+---
+
+## 🌳 Decision Tree Analysis
+- Trained a Decision Tree model on the dataset
+- Analyzed how features contribute to predictions
+- Visualized **feature importance** to identify the most influential variables
+- Used model insights to support EDA findings
+
+---
+
+## 📊 Key Insights
+- Certain chemical properties strongly influence wine classification
+- Decision Trees provide interpretable feature importance
+- EDA + model-based analysis improves understanding of data behavior
+
+---
+
+## 📂 Repository Structure
+
