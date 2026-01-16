@@ -62,3 +62,21 @@ The EDA is **inspired by a GeeksforGeeks tutorial** and has been **adapted and e
 
 ## 📂 Repository Structure
 
+---
+
+## 📚 References
+- GeeksforGeeks – Wine Dataset EDA & Decision Tree Tutorial  
+- UCI Machine Learning Repository – Wine Dataset  
+
+---
+
+## 👤 Author
+Abdulla Basheer 
+Data Scientist  | ML Enthusiast
+
+---
+
+## 📌 Note
+This project is part of my **learning and portfolio development** in Data Science and Machine Learning.  
+The focus is on **understanding concepts, interpretability, and best practices**.
+
